@@ -584,8 +584,6 @@ shinobi-nvr/
 **Gustavo Carvalho**
 IT Infrastructure & Cloud Engineer | Montreal, Canada
 
-- 15+ years in IT infrastructure
-- Specializations: Azure, Docker, Fortinet, Intune, SentinelOne
 - Currently transitioning into Cloud & DevOps roles
 
 > *This project is part of my public portfolio documenting real-world enterprise IT solutions.*
